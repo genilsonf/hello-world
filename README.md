@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
-Well, I'm a civil engineer who likes thecnology and is learning to code. I have the objective of improving my programming skills and use that at my job. Or, maybe, use AS my job, in case of I don't get one. At this time, I'm learning Python and MySQL.
+Well, I'm a civil engineer who likes thecnology and is learning to code. I want to improve my programming skills and, maybe, get a job with that. At the moment, I'm learning front-end development (JS, HTML and CSS) and I'm enjoying it! 
 I think I have a long journey before me :)
